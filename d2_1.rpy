@@ -1,3 +1,4 @@
+#Насрал ещё, проверка
 label d2_withre_otkus:
     scene bg black with dissolve
     window hide
