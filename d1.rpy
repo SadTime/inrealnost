@@ -1,3 +1,4 @@
+#А вот это уже нравится автору
 label menu_inreal_start:
     $ save_name = ('Инреальность.\nПролог')
     scene bg black
